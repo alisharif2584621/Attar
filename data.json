@@ -1,0 +1,110 @@
+{
+ "settings": {
+  "pageTitle": "اتحادیه صنف عطار تهران",
+  "theme": "auto",
+  "themeToggle": true,
+  "light": {
+   "bg": "#ffffff",
+   "bg2": "",
+   "btn": "#2e4a62",
+   "btnText": "#ffffff"
+  },
+  "dark": {
+   "bg": "#0f1a24",
+   "bg2": "",
+   "btn": "#3a5d7c",
+   "btnText": "#ffffff"
+  },
+  "showFrame": true,
+  "showDivider": true,
+  "newTab": true,
+  "maintenance": false,
+  "maintenanceText": "این صفحه به‌زودی فعال می‌شود"
+ },
+ "images": {
+  "logo": "assets/logo.png",
+  "title": "assets/title.png",
+  "frame": "assets/frame.jpg",
+  "divider": "assets/divider.jpg",
+  "ornament": "assets/orn.png"
+ },
+ "buttons": [
+  {
+   "label": "سایت",
+   "url": "",
+   "group": "top",
+   "visible": true
+  },
+  {
+   "label": "اینستاگرام",
+   "url": "",
+   "group": "top",
+   "visible": true
+  },
+  {
+   "label": "عطار",
+   "url": "",
+   "group": "main",
+   "visible": true
+  },
+  {
+   "label": "زعفران و بذر",
+   "url": "",
+   "group": "main",
+   "visible": true
+  },
+  {
+   "label": "شوینده",
+   "url": "",
+   "group": "main",
+   "visible": true
+  },
+  {
+   "label": "ادویه و عرقیات",
+   "url": "",
+   "group": "main",
+   "visible": true
+  },
+  {
+   "label": "صابون و بوگیر",
+   "url": "",
+   "group": "main",
+   "visible": true
+  },
+  {
+   "label": "حبوبات و سقط فروش",
+   "url": "",
+   "group": "main",
+   "visible": true
+  },
+  {
+   "label": "توتون و دخانیات",
+   "url": "",
+   "group": "main",
+   "visible": true
+  },
+  {
+   "label": "گیاهان دارویی",
+   "url": "",
+   "group": "main",
+   "visible": true
+  },
+  {
+   "label": "قهوه",
+   "url": "",
+   "group": "main",
+   "visible": true
+  },
+  {
+   "label": "چای",
+   "url": "",
+   "group": "main",
+   "visible": true
+  }
+ ],
+ "fonts": {
+  "custom": [],
+  "buttons": "",
+  "body": ""
+ }
+}
